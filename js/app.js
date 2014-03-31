@@ -50,7 +50,7 @@ angular.module('weekendApp', [])
 
 //JS
 function Ctrl2($scope,$timeout) {
-  $scope.format = 'dd.MM.yyyy, HH:mm:ss';   
+  $scope.format = 'dd.MM.yyyy, HH:mm:ss'; 
 };
 $(document).ready(function() {
   var ynm = $("#yes-no-maybe");
@@ -91,6 +91,7 @@ $(document).ready(function() {
   var feierabendHour = 17;
   var feierabendDiffH = feierabendHour - hrs
   var feierabendDiffM = 60 - mnts
+  var feierabendDiffD = 5 - dayOfWeek
  
   //$(".date").html("Heute ist " + dOWInWords[dayOfWeek] + ", der " + day + "." + month + "." + year + ", " + hrs + ":" + mnts + ":" + scnds); //change date to today
   
@@ -111,7 +112,7 @@ $(document).ready(function() {
   }
   
   if (dayOfWeek < feierabendDay && dayOfWeek > 0) { // Montag bis Freitag
-      ynm.text("No")
+      ynm.text('Nein :( Bis zum Wochenende musst du noch ' + feierabendDiffD + ' Tage ' + feierabendDiffH + ' Stunden aushalten.')
   }
 
 });
