@@ -5,19 +5,21 @@ angular.module('weekendApp', [])
       { id: 1, name: "Montag" },
       { id: 2, name: "Dienstag" },
       { id: 3, name: "Mittwoch" },
-	  { id: 4, name: "Donnerstag" },
+	    { id: 4, name: "Donnerstag" },
       { id: 5, name: "Freitag" },
-	  { id: 6, name: "Samstag" },
-	  { id: 7, name: "Sonntag" }
+	    { id: 6, name: "Samstag" },
+	    { id: 7, name: "Sonntag" }
     ];
-   $scope.weekday = $scope.weekdays[4]; 
+   var d=new Date()
+   var today = d.getDate() + 1
+   $scope.weekday = $scope.weekdays[4];
   })
 .controller('TimeCtrl', function($scope){
     $scope.times = [
       { id: 1, hour: "19" },
       { id: 2, hour: "18" },
       { id: 3, hour: "17" },
-	  { id: 4, hour: "16" },
+	    { id: 4, hour: "16" },
       { id: 5, hour: "15" },
     ];
 	$scope.time = $scope.times[2]; 
@@ -51,12 +53,8 @@ angular.module('weekendApp', [])
 //JS
 function Ctrl2($scope,$timeout) {
   $scope.format = 'dd.MM.yyyy, HH:mm:ss'; 
-};
-$(document).ready(function() {
-  var ynm = $("#yes-no-maybe");
-  //var yesText = 'Yes, Wochenende \\o/ (Falls du ' + dOWInWords[feierabendDay] + ', ' +  feierabendHour +' Uhr Feierabend hast)'
-  //var noText = 'Nein'
-  //var soonText = 'Fast geschafft \\o/'  
+  angular.element(document).ready(function () {
+     var ynm = $("#yes-no-maybe"); 
 
   randColor = function() {
     colors = ["red", "green", "blue", "orange", "pink", "yellow", "brown", "grey", "black"]
@@ -89,21 +87,24 @@ $(document).ready(function() {
   //when does the user have Feierabend? By default we say "Freitag, 17 Uhr"
   var feierabendDay = 5;
   var feierabendHour = 17;
-  var feierabendDiffH = feierabendHour - hrs
+  var feierabendDiffH = feierabendHour - hrs - 1
   var feierabendDiffM = 60 - mnts
   var feierabendDiffD = 5 - dayOfWeek
+  feierabendDiffD > 1 ? dayString = 'Tage' : dayString = 'Tag' 
+  feierabendDiffH == 1 ? hourString = 'Stunde' : hourString = 'Stunden' 
+  //if we have let's say Wednesday, 18:00 we would get "2 days, -1 hour"
+  feierabendDiffH = feierabendDiffH % 24
  
-  //$(".date").html("Heute ist " + dOWInWords[dayOfWeek] + ", der " + day + "." + month + "." + year + ", " + hrs + ":" + mnts + ":" + scnds); //change date to today
   
   if (dayOfWeek == feierabendDay) { //Freitag
     if (hrs >= feierabendHour) {
-      ynm.text('Yes, Wochenende \\o/ (Falls du ' + dOWInWords[feierabendDay] + ', ' +  feierabendHour +' Uhr Feierabend hast)')
+      ynm.text('Yes, Wochenende \\o/ (Falls du ' + dOWInWords[feierabendDay] + ', ' +  feierabendHour +' Uhr Feierabend hast). Ab nach Hause! Worauf wartest du?')
     } else {
       ynm.text("Fast geschafft \\o/")
       if (feierabendDiffH > 1)
-      	ynm.append('<p>Noch ' + feierabendDiffH + "h " + feierabendDiffM + 'm bis Feierabend! (' + dOWInWords[feierabendDay] + ', ' +  feierabendHour +' Uhr).</p>') 
+        ynm.append('<p>Noch ' + feierabendDiffH + "h " + feierabendDiffM + 'm bis Feierabend! (' + dOWInWords[feierabendDay] + ', ' +  feierabendHour +' Uhr).</p>') 
       else 
-   		ynm.append('<p>Noch ' + feierabendDiffM + 'm bis Feierabend! (' + dOWInWords[feierabendDay] + ', ' +  feierabendHour +' Uhr).</p>')
+      ynm.append('<p>Noch ' + feierabendDiffM + 'm bis Feierabend! (' + dOWInWords[feierabendDay] + ', ' +  feierabendHour +' Uhr).</p>')
     }
   }
 
@@ -112,7 +113,17 @@ $(document).ready(function() {
   }
   
   if (dayOfWeek < feierabendDay && dayOfWeek > 0) { // Montag bis Freitag
-      ynm.text('Nein :( Bis zum Wochenende musst du noch ' + feierabendDiffD + ' Tage ' + feierabendDiffH + ' Stunden aushalten.')
+    //if actual hours < Feierabend-hours
+      ynm.text('Nein :( Bis zum Wochenende musst du noch ' + feierabendDiffD + ' ' + dayString + ' und ' + feierabendDiffH + ' ' + hourString + ' aushalten.')
+      var scope = angular.element("#yes-no-maybe").scope();
+      scope.$apply(function(){
+          // angular world
+          scope.data = html;
+      });
   }
+    });
+};
+$(document).ready(function() {
+  
 
 });

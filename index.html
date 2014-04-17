@@ -43,41 +43,50 @@
           <a class="FlattrButton" style="display:none;" href="http://istschonwochenen.de/"></a>
           <noscript><a href="http://flattr.com/thing/1127155/Ist-schon-Wochenende" target="_blank">
           <img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a></noscript>
-  <div class="fb-like" data-href="http://istschonwochenen.de" data-send="true" data-width="450" data-show-faces="true"></div>
-  <div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300"></div>
-      </div>
-      <div class="date navbar-right">
-        <div ng-controller="Ctrl2">
-          Heute ist der <span my-current-time="format"></span> Uhr
         </div>
-      </div>
-
-    </nav>
-    <div class="container">
-
-          <!-- Main component for a primary marketing message or call to action -->
-          <div class="jumbotron">
-            <h1>Ist schon Wochenende?</h1>
-            <p>Jeden Freitag dieselbe Frage: ist schon Wochenende? Diese Seite gibt euch die Antwort.</p>
+        <div id="tweet">
+          <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://istschonwochenen.de" data-text="Ich habe gleich Wochenende. Und du?" data-via="sm0k1nggnu" data-hashtags="wochenende">Tweet</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </div>
+        <div class="fb-like" data-href="http://istschonwochenen.de" data-send="true" data-width="450" data-show-faces="true">  
+        </div>
+        <div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300">
+        </div>
+        <div class="date navbar-right">
+          <div ng-controller="Ctrl2">
+            Heute ist der <span my-current-time="format"></span> Uhr
           </div>
-          <p><form class="form-inline" role="form">
-            Sag uns, wann bei dir Wochenende ist! 
-            <div class="form-group" ng-controller="WeekdayCtrl">
-              <select class="form-control" ng-model="weekday" ng-options="weekday.name for weekday in weekdays"></select>
-            </div>
-            <div class="form-group" ng-controller="TimeCtrl">
-              <select class="form-control" ng-model="time" ng-options="time.hour for time in times"></select> Uhr
-            </div>
-          </form></p>
-    			<h2 id="yes-no-maybe"></h2>
         </div>
-
-      <div id="footer">
-        <div class="container">
-          <p class="text-muted">made with <i class="glyphicon glyphicon-heart"></i> by <a href="http://twitter.com/sm0k1nggnu">@sm0k1nggnu</a> / <a href="http://captain-obvious.de/impressum/">Impressum</a></p>
-          <p>stuff: <a href="http://istmorgenfeiertag.de">Ist morgen Feiertag?</a> | <a href="http://sm0k1nggnu.github.io/Learn-Kana">Learn Hiragana &amp; Katakana online</a> | <a href="http://zwo.me">Zockwork Orange</a></p>
-        </div>
+      </div>    
+    </nav>
+    
+    <div class="container">
+      <!-- Main component for a primary marketing message or call to action -->
+      <div class="jumbotron">
+        <h1>Ist schon Wochenende?</h1>
+        <p>Jeden Freitag dieselbe Frage: ist schon Wochenende? Diese Seite gibt euch die Antwort.</p>
       </div>
+      <p>
+        <form class="form-inline" role="form">
+          Sag uns, wann bei dir Wochenende ist!
+          <div class="form-group" ng-controller="WeekdayCtrl">
+            <select  class="form-control" ng-model="weekday" ng-options="weekday.name for weekday in weekdays"></select>
+              {{daysuntil}}
+          </div>
+          <div class="form-group" ng-controller="TimeCtrl">
+            <select class="form-control" ng-model="time" ng-options="time.hour for time in times"></select> Uhr
+          </div>
+        </form>
+      </p>
+     <h2 id="yes-no-maybe"></h2>
+   </div>
+
+   <div id="footer">
+     <div class="container">
+       <p class="text-muted">made with <i class="glyphicon glyphicon-heart"></i> by <a href="http://twitter.com/sm0k1nggnu">@sm0k1nggnu</a> / <a href="http://captain-obvious.de/impressum/">Impressum</a></p>
+       <p>stuff: <a href="http://istmorgenfeiertag.de">Ist morgen Feiertag?</a> | <a href="http://sm0k1nggnu.github.io/Learn-Kana">Learn Hiragana &amp; Katakana online</a> | <a href="http://zwo.me">Zockwork Orange</a></p>
+     </div>
+   </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
