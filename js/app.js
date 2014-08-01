@@ -17,10 +17,10 @@ angular.module('weekendApp', [])
       { id: 1, hour: "19" },
       { id: 2, hour: "18" },
       { id: 3, hour: "17" },
-	  { id: 4, hour: "16" },
+      { id: 4, hour: "16" },
       { id: 5, hour: "15" },
     ];
-	$scope.time = $scope.times[2]; 
+	$scope.time = $scope.times[0]; 
   })
 .directive('myCurrentTime', function($timeout, dateFilter) {
   return function(scope, element, attrs) {
