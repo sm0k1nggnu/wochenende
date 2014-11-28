@@ -18,15 +18,15 @@
     <![endif]-->
     <!-- flattr -->
     <script type="text/javascript">
-			/* <![CDATA[ */
-			(function() {
-				var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
-				s.type = 'text/javascript';
-				s.async = true;
-				s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
-				t.parentNode.insertBefore(s, t);
-			})();
-			/* ]]> */</script>
+      /* <![CDATA[ */
+      (function() {
+        var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+        t.parentNode.insertBefore(s, t);
+      })();
+      /* ]]> */</script>
       <div id="fb-root"></div>
       <script>(function(d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0];
@@ -53,15 +53,11 @@
         <!--<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300">
         </div>-->
         <div class="date navbar-right">
-          <div>
-            Heute ist der <span my-current-time="format"></span> Uhr
-          </div>
+          <span>{{date | date:'medium'}}</span>
         </div>
       </div>    
     </nav>
-    
     <div class="container">
-      <!-- Main component for a primary marketing message or call to action -->
       <div class="jumbotron">
         <h1>Ist schon Wochenende?</h1>
         <p>Jeden Freitag dieselbe Frage: ist schon Wochenende? Diese Seite gibt euch die Antwort.</p>
@@ -77,15 +73,12 @@
           </div>
         </form>
       </p>
-      Noch <span ng-bind="daysUntil"></span> Tage und <span ng-bind="hoursUntil"></span> Stunden bis Wochenende.
-     <h2 id="yes-no-maybe"></h2>
+      {{ prompt }}
+      <!--Noch {{daysUntil}} Tage und {{hoursUntil}} Stunden bis Wochenende.-->
    </div>
 
    <div id="footer">
-     <div class="container">
-       <p class="text-muted">made with <i class="glyphicon glyphicon-heart"></i> by <a href="http://twitter.com/sm0k1nggnu">@sm0k1nggnu</a> / <a href="http://captain-obvious.de/impressum/">Impressum</a></p>
-       <p>stuff: <a href="http://istmorgenfeiertag.de">Ist morgen Feiertag?</a> | <a href="http://sm0k1nggnu.github.io/Learn-Kana">Learn Hiragana &amp; Katakana online</a> | <a href="http://zwo.me">Zockwork Orange</a></p>
-     </div>
+    Footer
    </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
@@ -93,29 +86,5 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.14/angular.js"></script>
     <script src="js/app.js"></script>
-    
-    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-    <script type="text/javascript">
-
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-2528511-6']);
-      _gaq.push(['_trackPageview']);
-
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-
-    </script>
-    <script type="text/javascript">
-      window.___gcfg = {lang: 'de'};
-
-      (function() {
-        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-        po.src = 'https://apis.google.com/js/plusone.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-      })();
-    </script>
   </body>
 </html>
