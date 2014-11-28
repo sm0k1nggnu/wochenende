@@ -1,0 +1,1628 @@
+# Webalizer V2.23-08 Incremental Data - 10/23/2014 23:27:46
+2014 10 23 23 27 46
+1945 1173 348 8 66 124 10940003 1066 526 0
+20 0 45 1 23
+114 53 670754 17 61 21
+139 78 801347 23 73 31
+90 57 530350 24 56 28
+70 34 343413 11 48 16
+66 46 388189 15 37 24
+83 51 532914 19 45 24
+48 30 374067 10 31 16
+86 46 320721 16 59 24
+92 57 460241 24 51 25
+135 101 751799 46 67 45
+84 41 387449 18 49 23
+54 31 272460 12 27 13
+65 26 251747 14 43 14
+29 18 109506 11 16 9
+113 68 659332 24 55 24
+110 64 661686 25 49 28
+176 121 792291 58 115 64
+60 27 227176 19 38 21
+61 49 581990 15 22 12
+78 52 574204 20 34 18
+51 45 336679 14 26 18
+60 28 312861 12 31 13
+81 50 598827 20 33 15
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+68 49 425054 39
+55 34 443882 24
+46 31 265536 28
+58 22 272737 29
+130 62 688779 64
+40 21 185808 26
+42 29 341984 25
+87 50 499941 44
+43 21 175798 31
+89 34 343197 60
+132 85 677865 78
+104 77 615785 57
+85 38 282233 65
+67 56 483741 30
+90 68 457889 45
+138 82 775204 69
+102 79 641652 47
+170 101 1048954 95
+66 40 353323 34
+93 50 496617 46
+71 48 514994 33
+63 29 307277 34
+56 37 300554 37
+50 30 341199 26
+0
+0
+0
+1173
+0
+0
+0
+0
+0
+18
+0
+0
+0
+0
+24
+0
+0
+0
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+721
+0
+0
+0
+0
+0
+# -urls- 
+/js/bootstrap.min.js
+1 183 0 3562109 0 0
+/js/app.js
+1 185 0 590196 0 0
+/fonts/glyphicons-halflings-regular.eot
+0 6 0 122010 0 0
+/css/style.css
+1 92 0 28503 0 0
+/css/bootstrap.min.css
+1 91 0 1958575 0 0
+/fonts/glyphicons-halflings-regular.woff
+0 39 0 909480 0 0
+/
+0 587 0 2070047 503 164
+/fonts/glyphicons-halflings-regular.ttf
+0 32 0 1320960 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ec2-54-246-137-243.eu-west-1.compute.amazonaws.com
+0 8 8 52359 2 1413566842
+/
+31.13.99.113
+0 1 1 2340 1 1413494611
+/
+tmo-111-77.customers.d1-online.com
+0 6 6 52359 1 1412174850
+/
+130.138.227.11
+0 6 6 49374 1 1412350466
+/
+175.141.43.8
+0 36 12 171248 4 1413198787
+-
+crawl-192-99-107-28.meanpathbot.com
+0 2 2 4680 2 1412922062
+/
+ptr.cnsat.com.cn
+0 1 1 5867 1 1413780005
+/
+104.152.186.120
+0 18 6 85624 2 1413028528
+-
+2.239.213.229
+0 6 6 70319 1 1413801995
+/
+ec2-107-23-45-127.compute-1.amazonaws.com
+0 1 1 2340 1 1412942469
+/
+static.21.53.4.46.clients.your-server.de
+0 1 1 5867 1 1412374969
+/
+baiduspider-123-125-71-54.crawl.baidu.com
+0 2 2 100966 0 0
+-
+ns2.computerfun.ro
+0 3 1 6965 1 1413154584
+-
+179-111-153-22.dsl.telesp.net.br
+0 6 6 70319 1 1412561962
+/
+173.208.177.58
+0 17 0 0 1 1412262246
+-
+150-70-97-99.trendmicro.com
+0 1 1 5867 1 1413564318
+/
+r-199-59-148-211.twttr.com
+0 2 2 4680 1 1413564232
+/
+ec2-54-176-104-7.us-west-1.compute.amazonaws.com
+0 1 1 0 1 1413570832
+/
+p4fff0ffd.dip0.t-ipconnect.de
+0 6 3 41165 1 1412303219
+-
+r-199-59-148-209.twttr.com
+0 3 3 7020 3 1413608919
+/
+69.171.230.116
+0 1 1 2340 1 1412969817
+/
+14.52.89.110.broad.pt.fj.dynamic.163data.com.cn
+0 1 1 5867 1 1413361759
+/
+88.250.244.33.static.ttnet.com.tr
+0 6 3 41165 1 1413331283
+-
+baiduspider-220-181-108-154.crawl.baidu.com
+0 1 1 2340 1 1412600936
+/
+150-70-173-54.trendmicro.com
+0 1 1 5867 1 1412942118
+/
+ip-95-222-201-169.hsi15.unitymediagroup.de
+0 12 12 104718 2 1413136469
+/
+msnbot-207-46-13-46.search.msn.com
+0 1 1 7679 0 0
+-
+customer.krypt.com
+0 5 1 8063 1 1412400772
+/
+ec2-54-241-198-78.us-west-1.compute.amazonaws.com
+0 2 2 0 1 1413564233
+/
+crawl-192-99-107-190.meanpathbot.com
+0 3 3 7020 3 1413201909
+/
+178.32.251.102
+0 8 3 42263 1 1412331407
+/
+94.16.13.9
+0 6 6 49374 1 1413405445
+/
+208.89.211.115
+0 7 3 41714 1 1414047472
+-
+74.208.213.157
+0 9 3 42812 1 1413452207
+-
+92-55-195-78.net.hawetelekom.pl
+0 6 6 52359 1 1412257647
+/
+199.16.156.125
+0 1 1 2340 1 1413509684
+/
+crawl-66-249-69-209.googlebot.com
+0 2 2 4680 2 1412316560
+/
+fulltextrobot-77-75-77-17.seznam.cz
+0 1 1 2340 1 1412770220
+/
+baiduspider-180-76-5-62.crawl.baidu.com
+0 1 1 2340 1 1413634332
+/
+77-172-150-206.ip.telfort.nl
+0 9 3 42812 1 1412121979
+-
+ip82-139-71-169.lijbrandt.net
+0 9 3 42812 1 1413399994
+-
+spider-95-108-244-251.yandex.com
+0 64 64 149760 22 1414059764
+/
+c952153f.virtua.com.br
+0 6 6 70319 1 1412580589
+/
+152.239.37.120.broad.pt.fj.dynamic.163data.com.cn
+0 7 0 3843 1 1412628271
+-
+static.vdc.vn
+0 2 2 4680 2 1413591877
+/
+200-97-150-154.user.veloxzone.com.br
+0 1 1 5867 1 1413051045
+/
+ip1f10f116.dynamic.kabel-deutschland.de
+0 6 6 52359 1 1414036872
+/
+46.229.170.197
+0 1 1 5867 1 1412399048
+/
+h050.crawl.yahoo.net
+0 4 4 11734 1 1412942034
+/
+69.30.217.237
+0 6 3 41165 1 1412242427
+-
+31.13.99.118
+0 1 1 2340 1 1412708288
+/
+119.63.193.131
+0 1 1 5867 1 1413780011
+/
+84.120.37.55.dyn.user.ono.com
+0 9 3 42812 1 1412271932
+-
+91.242.162.100
+0 2 2 11734 2 1414062055
+/
+sft088.sysms.net
+0 1 1 2340 1 1412942020
+/
+baiduspider-180-76-5-143.crawl.baidu.com
+0 1 1 2340 1 1412556546
+/
+bot.45.wasalive.com
+0 1 1 5867 1 1413616993
+/
+crawl-66-249-64-17.googlebot.com
+0 8 4 6538 6 1413630562
+/
+p57ad5c50.dip0.t-ipconnect.de
+0 6 6 52359 1 1413549236
+/
+cpc18-sutt4-2-0-cust135.19-1.cable.virginm.net
+0 6 6 70319 1 1412799069
+/
+bb24ff72.virtua.com.br
+0 6 6 70319 1 1412633482
+/
+213-209-123-24.business-customer.wtnet.de
+0 6 6 52359 1 1413381063
+/
+static-71-251-92-14.tampfl.fios.verizon.net
+0 6 3 41165 1 1412184304
+-
+sft042.sysms.net
+0 1 1 2340 1 1413564231
+/
+ec2-54-176-137-163.us-west-1.compute.amazonaws.com
+0 1 1 0 1 1412942270
+/
+baiduspider-123-125-71-38.crawl.baidu.com
+0 1 1 29110 0 0
+-
+37-145-54-142.broadband.corbina.ru
+0 6 6 49374 1 1413937475
+/
+17.168.161.220.broad.pt.fj.dynamic.163data.com.cn
+0 3 0 1647 1 1412847719
+-
+159.20.183.89
+0 6 6 70319 1 1413719030
+/
+baiduspider-123-125-71-30.crawl.baidu.com
+0 1 1 4541 0 0
+-
+177.135.247.72.static.gvt.net.br
+0 6 6 70319 1 1413467741
+/
+104.152.191.13
+0 18 6 85624 2 1414092359
+-
+b1529918.virtua.com.br
+0 6 6 70319 1 1413736972
+/
+135.red-79-148-64.dynamicip.rima-tde.net
+0 9 3 42812 1 1413361845
+-
+p5b25cc35.dip0.t-ipconnect.de
+0 1 1 2340 1 1413537250
+/
+winningedge.com
+0 3 1 6306 1 1412263441
+-
+bob75-10-78-234-204-95.fbx.proxad.net
+0 6 6 70319 1 1413812384
+/
+60.54.28.17
+0 9 3 42812 1 1413483102
+-
+cc003.topsy.com
+0 1 1 2340 1 1413899218
+/
+port-92-198-130-190.static.qsc.de
+0 1 1 5867 1 1413385613
+/
+195.96.183.181
+0 5 1 8063 1 1412168183
+-
+22.qq.com
+0 4 0 2196 4 1414011376
+-
+ip138.ip-5-39-97.eu
+0 3 3 7020 3 1413583468
+/
+p4fff263b.dip0.t-ipconnect.de
+0 6 3 41165 1 1412862933
+-
+195-154-174-174.rev.poneytelecom.eu
+0 3 1 6306 1 1413249482
+-
+69.174.244.188
+0 3 1 6306 1 1412834697
+-
+195.243.77.229
+0 6 6 52359 1 1412943987
+/
+173.192.79.101-static.reverse.softlayer.com
+0 1 1 2340 1 1412942052
+/
+85.137.64.142.dyn.user.ono.com
+0 9 3 42812 1 1412245383
+-
+89.244.155.35
+0 1 1 5867 1 1412259084
+/
+static.5-9-17-49.clients.your-server.de
+0 5 1 8063 1 1413315011
+-
+192.187.99.194
+0 18 0 0 2 1413996252
+-
+64.79.100.126.sd.server
+0 27 9 128436 3 1413020800
+-
+digitalsattelecom
+0 6 6 70319 1 1413823052
+/
+219.94.88.117
+0 6 6 70319 1 1413446324
+/
+64.215.22.65
+0 6 6 52359 1 1412350485
+/
+199.19.249.196
+0 2 2 26202 1 1413405445
+/
+dhcp-089-099-051-059.chello.nl
+0 9 3 42812 1 1413718459
+-
+177.64.12.145
+0 6 6 70319 1 1413471740
+/
+baiduspider-220-181-108-114.crawl.baidu.com
+0 1 1 2340 1 1413700939
+/
+baiduspider-123-125-71-12.crawl.baidu.com
+0 1 1 1005 0 0
+-
+62-210-113-249.rev.poneytelecom.eu
+0 6 0 3294 0 0
+-
+baiduspider-180-76-5-22.crawl.baidu.com
+0 1 1 2340 1 1413085697
+/
+ip115-60-210-87.adsl2.static.versatel.nl
+0 9 3 42812 1 1413344790
+-
+static.235.142.63.178.clients.your-server.de
+0 9 3 42812 1 1412567196
+-
+ec2-50-19-55-204.compute-1.amazonaws.com
+0 1 1 2340 1 1413567097
+/
+77-172-185-250.ip.telfort.nl
+0 9 3 42812 1 1413964482
+-
+74.208.75.60
+0 1 1 5867 1 1413378721
+/
+203.98.92.38.reverse.crucialx.net
+0 9 3 42812 1 1412573751
+-
+208.66.72.154.svservers.com
+0 1 1 5867 1 1413412909
+/
+badd4139.virtua.com.br
+0 6 6 70319 1 1412272590
+/
+crawl-192-99-107-82.meanpathbot.com
+0 2 2 4680 2 1412677908
+/
+104.131.210.75
+0 1 1 5867 1 1412788396
+/
+dsl-187-195-195-229-dyn.prod-infinitum.com.mx
+0 6 6 70319 1 1412541161
+/
+crawl-66-249-69-193.googlebot.com
+0 5 5 24455 3 1412430343
+/
+hsi-kbw-046-005-002-084.hsi8.kabel-badenwuerttemberg.de
+0 6 6 52359 1 1413607143
+/
+xdsl-31-130-96-17.wist.com.pl
+0 6 6 52359 1 1412439848
+/
+ip-189-0-80-144.user.vivozap.com.br
+0 6 6 70319 1 1412817627
+/
+213.37.212.250.dyn.user.ono.com
+0 9 3 42812 1 1413480877
+-
+198.204.252.210
+0 1 1 5867 1 1412359731
+/
+225.144.40.120.broad.pt.fj.dynamic.163data.com.cn
+0 7 0 3843 1 1413505439
+-
+91.137.92.100
+0 6 3 41165 1 1413535119
+-
+crawl-66-249-78-7.googlebot.com
+0 6 1 2340 6 1413801444
+/
+173.252.110.118
+0 1 1 2340 1 1412620858
+/
+crawl-192-99-39-68.meanpathbot.com
+0 1 1 2340 1 1412165113
+/
+63.142.244.177
+0 9 3 42812 1 1414032602
+-
+66.220.156.115
+0 1 1 2340 1 1413458132
+/
+crawl-66-249-67-41.googlebot.com
+0 7 6 19379 6 1414097901
+/
+5.135.199.7
+0 18 6 85624 2 1412282313
+-
+82-170-84-24.ip.telfort.nl
+0 9 3 42812 1 1412906384
+-
+5x164x148x98.dynamic.samara.ertelecom.ru
+0 6 6 70319 1 1412247860
+/
+82-168-199-216.ip.telfort.nl
+0 45 15 214060 5 1413791958
+-
+92.110.135.182
+0 18 9 123495 3 1413825223
+-
+86-123-20-124.static.brasov.rdsnet.ro
+0 3 3 103306 1 1412207041
+/
+ip3e8313f3.speed.planet.nl
+0 9 3 42812 1 1413992903
+-
+ec2-54-82-149-127.compute-1.amazonaws.com
+0 1 1 2340 1 1413566410
+/
+191.red-83-33-46.dynamicip.rima-tde.net
+0 6 6 70319 1 1412676990
+/
+baiduspider-123-125-71-46.crawl.baidu.com
+0 1 1 29110 0 0
+-
+static-ip-85-25-213-146.inaddr.ip-pool.com
+0 11 3 43910 1 1412742960
+-
+123.125.160.215
+0 1 1 2340 1 1413619215
+/
+109-184-17-43.dynamic.mts-nn.ru
+0 6 6 70319 1 1414061939
+/
+crawl02.exabot.com
+0 2 0 0 2 1413623997
+/
+host92-65-dynamic.2-87-r.retail.telecomitalia.it
+0 6 6 70319 1 1413786574
+/
+crawl-66-249-67-49.googlebot.com
+0 5 5 22388 2 1413946694
+/
+baiduspider-123-125-71-60.crawl.baidu.com
+0 1 1 2340 1 1412840555
+/
+ec2-54-167-4-158.compute-1.amazonaws.com
+0 1 1 5867 1 1412417478
+/
+h048.helix.fastwebserver.de
+0 1 1 5867 1 1412335309
+/
+cc001.topsy.com
+0 1 1 2340 1 1413564356
+/
+199.16.156.124
+0 1 1 2340 1 1412942020
+/
+crawl-192-99-107-226.meanpathbot.com
+0 1 1 2340 1 1412948653
+/
+b110077.yse.yahoo.net
+0 2 1 2340 2 1413249843
+/
+ec2-54-198-176-3.compute-1.amazonaws.com
+0 1 1 2340 1 1412942036
+/
+212-182-169-79.ip.telfort.nl
+0 9 3 42812 1 1412156885
+-
+h040.crawl.yahoo.net
+0 6 6 8207 3 1413574175
+/
+websnapr.com
+0 6 6 52359 1 1413459982
+/
+ec2-54-198-122-232.compute-1.amazonaws.com
+0 2 2 4680 2 1413566592
+/
+ec2-54-91-113-248.compute-1.amazonaws.com
+0 11 7 17780 3 1413567131
+/
+181-174-40-254.telebucaramanga.net.co
+0 6 6 70319 1 1413014102
+/
+ec2-54-83-77-58.compute-1.amazonaws.com
+0 1 1 2340 1 1413476340
+/
+110.34.195.178.static.krypt.com
+0 1 1 5867 1 1412227525
+/
+ns504861.ip-192-99-149.net
+0 72 72 422424 72 1414028863
+/
+178-84-128-254.dynamic.upc.nl
+0 6 3 41165 1 1413906996
+-
+cc002.topsy.com
+0 1 1 2340 1 1413564292
+/
+plb95-11-78-213-86-24.fbx.proxad.net
+0 6 6 70319 1 1413832885
+/
+209.15.21.104
+0 6 6 52359 1 1413381928
+/
+p4fd5348d.dip0.t-ipconnect.de
+0 5 5 29039 1 1412866556
+/
+ns505734.ip-198-27-66.net
+0 1 1 2340 1 1413566397
+/
+crawl-192-99-107-154.meanpathbot.com
+0 1 1 2340 1 1412828170
+/
+13.249.159.27.broad.pt.fj.dynamic.163data.com.cn
+0 7 0 3843 1 1412788400
+-
+h-62.96.131.138.host.de.colt.net
+0 6 6 52359 1 1412942151
+/
+baiduspider-220-181-108-120.crawl.baidu.com
+0 1 1 2340 1 1413368525
+/
+msnbot-157-55-39-182.search.msn.com
+0 3 3 4755 0 0
+-
+b100279.yse.yahoo.net
+0 2 2 4680 2 1413587846
+/
+200.157.82.110.broad.pt.fj.dynamic.163data.com.cn
+0 7 0 3843 1 1413519857
+-
+vpn.eml.org
+0 6 6 52359 1 1413564412
+/
+77-56-221-120.dclient.hispeed.ch
+0 6 6 52359 1 1412343956
+/
+ec2-54-219-236-110.us-west-1.compute.amazonaws.com
+0 1 1 5867 1 1412942080
+/
+p579b154a.dip0.t-ipconnect.de
+0 6 6 52359 1 1412956291
+/
+173.252.100.116
+0 1 1 2340 1 1412362489
+/
+192.187.110.179
+0 28 0 15372 2 1412969615
+-
+bd3c37fe.virtua.com.br
+0 6 6 70319 1 1413852805
+/
+146.185.148.138
+0 2 2 2841 1 1413180126
+/
+ip4da614ee.direct-adsl.nl
+0 11 3 43910 1 1413642701
+-
+node2.ehost24x7.in
+0 5 1 7404 1 1413638668
+-
+toe.tusur.ru
+0 3 1 6965 1 1413551240
+-
+hyd-static-194-251-16-61.direct.net.in
+0 9 3 42812 1 1412270565
+-
+ip5b416a69.dynamic.kabel-deutschland.de
+0 6 6 52359 1 1413381045
+/
+ec2-54-166-16-188.compute-1.amazonaws.com
+0 1 1 2340 1 1413072597
+/
+185.24.92.34
+0 3 1 6965 1 1413867275
+-
+p4fc86a8e.dip0.t-ipconnect.de
+0 6 6 70319 1 1412381491
+/
+fetcher2-6.p.mail.ru
+0 1 0 0 1 1413891923
+/
+ip5f5be014.dynamic.kabel-deutschland.de
+0 6 6 52359 1 1413553444
+/
+102.213.26.117.broad.pt.fj.dynamic.163data.com.cn
+0 7 0 3843 1 1412889862
+-
+166.78.169.147
+0 1 0 549 0 0
+-
+rate-limited-proxy-66-249-92-41.google.com
+0 1 1 2340 1 1413813813
+/
+crawl-66-249-78-4.googlebot.com
+0 4 3 4953 3 1413729669
+/
+ec2-184-169-203-101.us-west-1.compute.amazonaws.com
+0 2 2 0 1 1412942021
+/
+ec2-54-193-212-129.us-west-1.compute.amazonaws.com
+0 1 1 0 1 1413567105
+/
+ec2-54-83-130-97.compute-1.amazonaws.com
+0 1 1 5867 1 1412124768
+/
+188.29.164.54.threembb.co.uk
+0 6 3 41165 1 1412565107
+-
+baiduspider-123-125-71-26.crawl.baidu.com
+0 1 1 1005 0 0
+-
+host130-12-static.240-95-b.business.telecomitalia.it
+0 9 3 42812 1 1413691714
+-
+62-134-46-4.de.bt.net
+0 6 6 52359 1 1413554701
+/
+rate-limited-proxy-66-249-89-13.google.com
+0 1 1 2340 1 1412946941
+/
+fulltextrobot-77-75-73-36.seznam.cz
+0 1 1 2340 1 1412882915
+/
+e440.enterprise.fastwebserver.de
+0 11 3 43910 1 1414035083
+-
+pd9faceb2.dip0.t-ipconnect.de
+0 6 3 41165 1 1412884932
+-
+baiduspider-123-125-71-53.crawl.baidu.com
+0 1 1 99961 0 0
+-
+82-198-197-79.briteline.de
+0 6 6 52359 1 1412942246
+/
+173.208.185.246
+0 6 3 41165 1 1413225155
+-
+mail.sodisfund.biz
+0 15 6 83977 2 1413951791
+-
+static-71-251-204-86.nwrknj.fios.verizon.net
+0 6 3 41165 1 1412504878
+-
+c5-web2.1080.proio.com
+0 3 3 7020 1 1413459980
+/
+179-110-150-121.dsl.telesp.net.br
+0 6 6 70319 1 1414094779
+/
+149.91.122.188
+0 18 6 85624 2 1412198089
+-
+ec2-54-198-120-164.compute-1.amazonaws.com
+0 1 1 2340 1 1413566353
+/
+ip503d48d3.speed.planet.nl
+0 6 3 41165 1 1412138774
+-
+b1b46513.virtua.com.br
+0 6 6 70319 1 1412483098
+/
+175.139.112.200
+0 9 3 42812 1 1412182646
+-
+58.59.238.198
+0 6 0 3294 1 1412324161
+-
+80.149.47.59
+0 18 18 157077 3 1413566356
+/
+baiduspider-123-125-71-107.crawl.baidu.com
+0 1 1 2340 1 1412298905
+/
+crawl-66-249-64-25.googlebot.com
+0 10 9 26399 9 1414005752
+/
+80.152.28.110
+0 6 6 160819 1 1412704740
+/
+80.31.147.112
+0 1 1 5867 1 1413499794
+/
+d97aa508.cm-3-3c.dynamic.ziggo.nl
+0 6 3 41165 1 1412262451
+-
+a144031.upc-a.chello.nl
+0 9 3 42812 1 1412874730
+-
+p3e9d3a66.dip0.t-ipconnect.de
+0 9 3 42812 1 1413791765
+-
+host7-225-static.229-95-b.business.telecomitalia.it
+0 9 3 42812 1 1413799797
+-
+ec2-50-16-33-25.compute-1.amazonaws.com
+0 1 1 0 1 1413573061
+/
+208.89.211.113
+0 6 3 41165 1 1413583534
+-
+c-71-56-191-248.hsd1.va.comcast.net
+0 4 4 20048 1 1412495958
+/
+r-199-59-148-210.twttr.com
+0 1 1 2340 1 1412843017
+/
+104.152.185.202
+0 9 3 42812 1 1412741258
+-
+172.216.33.120.broad.pt.fj.dynamic.163data.com.cn
+0 7 0 3843 1 1413412603
+-
+23-29-122-212-customer-incero.com
+0 2 2 5867 1 1413566345
+/
+173.208.185.245
+0 12 6 82330 2 1412399894
+-
+120.138.88.114
+0 9 3 42812 1 1412156417
+-
+www.whois.sc
+0 2 2 4680 2 1413634068
+/
+189-107-167-69.user.veloxzone.com.br
+0 6 6 70319 1 1413754214
+/
+29.200.77.222.broad.pt.fj.dynamic.163data.com.cn
+0 2 2 11734 1 1412994074
+/
+p5b136fe7.dip0.t-ipconnect.de
+0 6 6 52359 1 1413905181
+/
+46.114.36.4
+0 6 6 52359 1 1413057426
+/
+crawl-192-99-107-136.meanpathbot.com
+0 1 1 2340 1 1413010188
+/
+242.168.161.220.broad.pt.fj.dynamic.163data.com.cn
+0 1 1 5867 1 1413544587
+/
+199.254.121.216
+0 9 3 42812 1 1413130515
+-
+175.136.22.77
+0 9 3 42812 1 1412263665
+-
+krustofski.w3.org
+0 1 1 2340 1 1413459989
+/
+p54bef4ba.dip0.t-ipconnect.de
+0 1 1 2340 1 1412360214
+/
+150-70-173-43.trendmicro.com
+0 1 1 5867 1 1413566417
+/
+s3eea32e6.adsl.online.nl
+0 6 3 41165 1 1412916593
+-
+ip4da5b462.direct-adsl.nl
+0 9 3 42812 1 1412877892
+-
+150-70-97-69.trendmicro.com
+0 1 1 5867 1 1413567475
+/
+110.89.27.94
+0 2 2 11734 1 1413095224
+/
+204.12.251.37
+0 2 2 11734 1 1412477359
+/
+ipbcc1107b.dynamic.kabel-deutschland.de
+0 6 6 52359 1 1413302906
+/
+dynamic-207-98-176-128.knology.net
+0 6 6 70319 1 1413854789
+/
+dhcp-077-248-044-111.chello.nl
+0 9 3 42812 1 1413241285
+-
+b2b-94-79-141-34.unitymedia.biz
+0 6 6 52359 1 1412942076
+/
+46-236-26-103.servers.dedipower.net
+0 1 1 2340 1 1413564231
+/
+baiduspider-220-181-108-77.crawl.baidu.com
+0 1 1 2340 1 1413067579
+/
+89.236.217.166.static.ip.tps.uz
+0 9 3 42812 1 1412646742
+-
+baiduspider-123-125-71-32.crawl.baidu.com
+0 1 1 4541 0 0
+-
+150-70-173-38.trendmicro.com
+0 1 1 5867 1 1412942597
+/
+197.1.150.255
+0 6 6 70319 1 1413480947
+/
+ip565ca3ad.direct-adsl.nl
+0 9 3 42812 1 1413496746
+-
+server.healthkupon.ru
+0 5 5 29039 1 1413902562
+/
+203.214.159.27.broad.pt.fj.dynamic.163data.com.cn
+0 7 0 3843 1 1413211227
+-
+140.237.37.137
+0 7 0 3843 1 1412674973
+-
+windhcpca02.8800.org
+0 1 1 5867 1 1413928845
+/
+93.125.115.102
+0 5 1 8063 1 1413807536
+-
+76-164-221.unassigned.userdns.com
+0 3 3 17601 3 1413484267
+/
+meerebus.singhost.com
+0 5 1 8063 1 1413220118
+-
+baiduspider-123-125-71-15.crawl.baidu.com
+0 1 1 4541 0 0
+-
+p57a3a99d.dip0.t-ipconnect.de
+0 6 6 52359 1 1412952416
+/
+200-171-134-148.dsl.telesp.net.br
+0 6 6 70319 1 1413679303
+/
+qmail.spadana.net
+0 5 1 8063 1 1413607521
+-
+154.210.159.27.broad.xm.fj.dynamic.163data.com.cn
+0 7 0 3843 1 1413070347
+-
+186.115.82.143
+0 6 6 70319 1 1412448434
+/
+baiduspider-123-125-71-34.crawl.baidu.com
+0 1 1 29110 0 0
+-
+23.96.208.137
+0 2 2 4680 2 1413564234
+/
+ded4u.com
+0 27 9 128436 3 1412539150
+-
+185.15.244.180
+0 6 3 41165 1 1413971842
+-
+37-145-187-42.broadband.corbina.ru
+0 1 1 5867 1 1412509559
+/
+208.89.215.50
+0 9 3 42812 1 1413064191
+-
+46.44.49.105
+0 5 5 29039 1 1413935935
+/
+b110107.yse.yahoo.net
+0 1 1 2340 1 1414004045
+/
+static.203.246.251.148.clients.your-server.de
+0 2 2 11734 2 1413568095
+/
+h404.23-4.de
+0 13 13 0 2 1412777032
+/
+crawl-192-99-107-172.meanpathbot.com
+0 1 1 2340 1 1412975478
+/
+static-adsl190-29-29-96.une.net.co
+0 6 6 52359 1 1413588578
+/
+crawl-66-249-69-225.googlebot.com
+0 1 1 2340 1 1412296444
+/
+212.clients.instantdedis.com
+0 27 9 128436 3 1413662311
+-
+p4fc25baa.dip0.t-ipconnect.de
+0 6 6 52359 1 1413748399
+/
+zt115.tfbnw.net
+0 1 1 2340 1 1414098734
+/
+ec2-54-82-69-210.compute-1.amazonaws.com
+0 2 2 4680 1 1412943021
+/
+65.52.246.161
+0 1 1 2340 1 1413341381
+/
+static.8.155.76.144.clients.your-server.de
+0 1 1 5867 1 1413821556
+/
+255.208.150.27.broad.pt.fj.dynamic.163data.com.cn
+0 7 0 3843 1 1413538892
+-
+178.62.198.239
+0 2 2 2841 1 1412959392
+/
+64.106.186.145
+0 9 3 42812 1 1412776913
+-
+google-proxy-66-249-81-72.google.com
+0 2 2 4680 2 1413389551
+/
+crawl-192-99-107-46.meanpathbot.com
+0 1 1 2340 1 1412760076
+/
+crawl-66-249-79-41.googlebot.com
+0 1 1 2340 1 1412781650
+/
+baiduspider-123-125-71-52.crawl.baidu.com
+0 1 1 99961 0 0
+-
+94.19.191.183.pool.sknt.ru
+0 1 1 5867 1 1413143455
+/
+crawl-66-249-67-33.googlebot.com
+0 7 7 30447 5 1413933977
+/
+crawl-66-249-64-21.googlebot.com
+0 11 10 50977 7 1413675646
+/
+ool-ad03c5e2.dyn.optonline.net
+0 9 3 42812 1 1412781664
+-
+rbw01.rbw.studentenwerk-goettingen.de
+0 6 6 52359 1 1412980843
+/
+p5ddeb196.dip0.t-ipconnect.de
+0 6 6 49374 1 1412873484
+/
+150-70-97-121.trendmicro.com
+0 1 1 5867 1 1413566474
+/
+google-proxy-66-249-84-45.google.com
+0 1 1 2340 1 1412926508
+/
+844ob.scansafe.net
+0 6 6 52359 1 1412955187
+/
+64.237.238.0
+0 1 1 2340 1 1413234065
+/
+p508b3b4d.dip0.t-ipconnect.de
+0 11 7 54699 1 1412874345
+/
+crawl-66-249-78-252.googlebot.com
+0 5 2 19502 4 1413014127
+/
+msnbot-157-55-39-243.search.msn.com
+0 2 2 4680 2 1413633985
+/
+p5b25cda5.dip0.t-ipconnect.de
+0 1 1 2340 1 1412964815
+/
+i5e8616ab.versanet.de
+0 6 6 52359 1 1413128722
+/
+112.220.126.250
+0 8 0 4392 0 0
+-
+baiduspider-220-181-108-175.crawl.baidu.com
+0 1 1 2340 1 1414085532
+/
+30.239.37.120.broad.pt.fj.dynamic.163data.com.cn
+0 7 0 3843 1 1412787911
+-
+port-213-61-236-226.dus.dial.de.colt.net
+0 6 6 52359 1 1412955120
+/
+23-29-122-195-customer-incero.com
+0 2 2 5867 1 1412942047
+/
+ec2-54-85-37-92.compute-1.amazonaws.com
+0 4 4 0 1 1413567026
+/
+dslb-088-077-255-126.088.077.pools.vodafone-ip.de
+0 9 3 42812 1 1413463600
+-
+173.252.110.114
+0 1 1 2340 1 1412879567
+/
+baiduspider-220-181-108-156.crawl.baidu.com
+0 1 1 2340 1 1413833104
+/
+zt114.tfbnw.net
+0 1 1 2340 1 1413660884
+/
+202.78.232.248
+0 3 3 39518 1 1412633649
+/
+201.172.96.27
+0 6 6 70319 1 1413345728
+/
+195.33.171.8
+0 6 6 52359 1 1412246330
+/
+ns502990.ip-198-27-82.net
+0 2 2 4680 1 1413566587
+/
+209.15.21.102
+0 6 6 52359 1 1413381876
+/
+184.173.106.130-static.reverse.softlayer.com
+0 1 1 2340 1 1413566590
+/
+230.237.150.27.broad.pt.fj.dynamic.163data.com.cn
+0 5 0 2745 1 1413358972
+-
+152.53.89.110.broad.pt.fj.dynamic.163data.com.cn
+0 2 2 11734 1 1413330165
+/
+ns3299942.ip-178-32-216.eu
+0 1 1 2340 1 1413566344
+/
+ec2-54-193-171-106.us-west-1.compute.amazonaws.com
+0 1 1 5867 1 1413569047
+/
+189-18-189-79.dsl.telesp.net.br
+0 6 6 70319 1 1412283211
+/
+ns505312.ip-198-27-67.net
+0 1 1 2340 1 1413564232
+/
+hosted-by.reliablesite.net
+0 1 1 2340 1 1413556254
+/
+ec2-107-21-61-133.compute-1.amazonaws.com
+0 1 1 2340 1 1413998809
+/
+103.red.159.225.212.procono.es
+0 45 15 214060 5 1413564628
+-
+162-219-28-93.alnitech.com
+0 9 3 42812 1 1412191437
+-
+ec2-54-81-124-61.compute-1.amazonaws.com
+0 1 1 2340 1 1413566787
+/
+210.195.186.44
+0 9 3 42812 1 1414029191
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+baiduspider-123-125-71-54.crawl.baidu.com
+0 1 1 1005 0 0
+-
+208.89.211.115
+0 7 3 41714 1 1414047472
+-
+spider-95-108-244-251.yandex.com
+0 5 5 11700 2 1414059764
+/
+ip1f10f116.dynamic.kabel-deutschland.de
+0 6 6 52359 1 1414036872
+/
+91.242.162.100
+0 1 1 5867 1 1414062055
+/
+baiduspider-123-125-71-38.crawl.baidu.com
+0 1 1 29110 0 0
+-
+104.152.191.13
+0 9 3 42812 1 1414092359
+-
+63.142.244.177
+0 9 3 42812 1 1414032602
+-
+crawl-66-249-67-41.googlebot.com
+0 2 2 10019 1 1414097901
+/
+109-184-17-43.dynamic.mts-nn.ru
+0 6 6 70319 1 1414061939
+/
+crawl-66-249-67-49.googlebot.com
+0 1 1 273 0 0
+-
+ns504861.ip-192-99-149.net
+0 1 1 5867 1 1414028863
+/
+e440.enterprise.fastwebserver.de
+0 11 3 43910 1 1414035083
+-
+baiduspider-123-125-71-53.crawl.baidu.com
+0 1 1 99961 0 0
+-
+179-110-150-121.dsl.telesp.net.br
+0 6 6 70319 1 1414094779
+/
+baiduspider-123-125-71-32.crawl.baidu.com
+0 1 1 4541 0 0
+-
+zt115.tfbnw.net
+0 1 1 2340 1 1414098734
+/
+crawl-66-249-67-33.googlebot.com
+0 2 2 18747 0 0
+-
+baiduspider-220-181-108-175.crawl.baidu.com
+0 1 1 2340 1 1414085532
+/
+210.195.186.44
+0 9 3 42812 1 1414029191
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://istschonwochenen.de/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+1 4
+http://istschonwochenen.de/fckeditor/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://t.co/kCSZQNN1WB
+0 4
+http://t.co/PlC77ntE6v
+0 1
+http://istschonwochenen.de/webmanage/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+1 1
+http://istschonwochenen.de/js/fckeditor/editor/filemanager/connectors/test.html
+1 1
+http://semalt.semalt.com/crawler.php
+0 19
+http://doubleumarketing.com
+0 1
+http://istschonwochenen.de/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://istschonwochenen.de/wp-content/plugins/sem-wysiwyg/fckeditor/editor/filemanager/connectors/test.html
+1 1
+http://www.google.com/url
+0 5
+http://istschonwochenen.de/FCK/editor/dialog/fck_about.html
+1 12
+http://istschonwochenen.de/
+1 365
+http://www.istschonwochenen.de
+1 5
+http://istschonwochenen.de
+1 11
+http://istschonwochenen.de/includes/fckeditor/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://istschonwochenen.de/admin/FCKeditor/editor/dialog/fck_about.html
+1 12
+http://captain-obvious.de
+0 1
+http://istschonwochenen.de/css/bootstrap.min.css
+1 24
+http://istschonwochenen.de/manage/fckeditor/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://istschonwochenen.de/admin/includes/rte/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://istschonwochenen.de/editor/filemanager/browser/default/connectors/asp/connector.asp
+1 4
+http://istschonwochenen.de/cms/fckeditor/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://istschonwochenen.de/administrator/fckeditor/editor/filemanager/upload/test.html
+1 1
+http://whois.domaintools.com/istschonwochenen.de
+1 2
+http://istschonwochenen.de/wp-content/plugins/st_newsletter/visual_editors/fckeditor/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://istschonwochenen.de/include/js/fckeditor/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://t.co/GXQWSEOcck
+0 1
+http://bdspsychotherapy.com
+0 1
+http://istschonwochenen.de/editor/editor/filemanager/connectors/test.html
+1 1
+http://istschonwochenen.de/webmaster/fckeditor/editor/filemanager/browser/default/connectors/test.html
+1 1
+- (Direct Request)
+0 1322
+http://greenvalleyspices.com
+0 1
+http://istschonwochenen.de/admin/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+1 4
+http://istschonwochenen.de/manager/fckeditor/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://www.google.de/url
+0 4
+http://www.istschonwochenen.de/css/bootstrap.min.css
+1 2
+http://istschonwochenen.de/manage/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://captain-obvious.de/
+0 3
+https://www.google.de/
+0 3
+http://istschonwochenen.de/manage/FCKeditor/editor/dialog/fck_about.html
+1 13
+http://istschonwochenen.de/admin/view/javascript/fckeditor/editor/filemanager/connectors/test.html
+1 1
+http://istschonwochenen.de/editor/dialog/fck_about.html
+1 11
+http://istschonwochenen.de/fck/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://istschonwochenen.de/admin/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://istschonwochenen.de/editor/editor/dialog/fck_about.html
+1 13
+http://istschonwochenen.de/editor/FCKeditor/editor/dialog/fck_about.html
+1 13
+http://formworkparts.com
+0 1
+http://istschonwochenen.de/wp-content/plugins/editormonkey/fckeditor/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://istschonwochenen.de/FCKeditor/editor/dialog/fck_about.html
+1 11
+http://www.google.pl/url
+0 1
+http://www.istschonwochenen.de/
+1 23
+https://www.google.pl/
+0 1
+http://yandex.ru/yandsearch
+0 3
+http://28148525.semalt.com/crawler.php
+0 9
+http://istschonwochenen.de/backend/fckeditor/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://istschonwochenen.de/mambots/editors/fckeditor/editor/filemanager/upload/test.html
+1 1
+http://istschonwochenen.de/include/js/fckeditor/editor/filemanager/connectors/test.html
+1 1
+http://www.google.si/url
+0 2
+http://istschonwochenen.de/editor/editor/filemanager/browser/default/connectors/asp/connector.asp
+1 1
+http://istschonwochenen.de/manage/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+1 4
+http://istschonwochenen.de/webadmin/fckeditor/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://istschonwochenen.de/include/fckeditor/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://istschonwochenen.de/sys/fckeditor/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://istschonwochenen.de/admin/fckeditor/editor/filemanager/browser/default/connectors/test.html
+1 1
+http://istschonwochenen.de/system/fckeditor/editor/filemanager/browser/default/connectors/test.html
+1 1
+# End Of Table - referrers
+# -agents- 
+Java/1.8.0_25
+0 18
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A405 Saf
+0 6
+Mozilla/4.0 (compatible; Win32; WinHttp.WinHttpRequest.5)
+0 6
+jack
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+1 48
+Mozilla/5.0 (compatible; coccoc/1.0; +http://help.coccoc.com/)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+1 18
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon
+1 3
+Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)
+0 13
+gettor/0.3
+0 1
+Twitterbot/1.0
+0 8
+MetaURI API/2.0 +metauri.com
+0 4
+Spider: Googlebot
+2 60
+Apache-HttpClient/4.2 (java 1.5)
+0 4
+Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.17
+1 11
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2b5) Gecko/20091204 Firefox/3.6b5
+1 1
+Java/1.7.0_67
+0 185
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Java/1.7.0_45
+0 20
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+1 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+1 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1
+1 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+1 12
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0; Touch; MASMJS)
+1 6
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.122 Safari/537.36 OPR/24.0.1558.6
+1 6
+Java/1.6.0_19
+0 9
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+1 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+1 108
+Java/1.6.0_04
+0 139
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 11
+Java/1.7.0_55
+0 18
+Mozilla/5.0 (compatible; WASALive-Bot ; http://blog.wasalive.com/wasalive-bots/)
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/534.34 (KHTML, like Gecko) Websnapr/3.0 Safari/534.34
+1 6
+Mozilla/5.0 (compatible; zitebot support [at] zite [dot] com +http://zite.com)
+0 1
+Java/1.7.0_71
+0 9
+larbin_2.6.3 larbin2.6.3@unspecified.mail
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:15.0) Gecko/20120716 Firefox/15.0a2
+1 1
+Browser: MSIE
+2 201
+Java/1.7.0_60
+0 9
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.8) Gecko/2008091620 Firefox/3.0.2
+1 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2b5) Gecko/20091204 Firefox/3.6b5
+1 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+1 6
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+1 46
+Browser: Firefox
+2 93
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+1 4
+Java/1.7.0_13
+0 6
+Java/1.7.0_65
+0 9
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+1 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36
+1 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+1 3
+Mozilla/5.0 (compatible; memoryBot/1.20.243 +http://internetmemory.org/en/)
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9295 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.135 Mobile 
+0 6
+Mozilla/5.0 ()
+0 3
+Mozilla/5.0 (Windows NT 6.1; rv:15.0) Gecko/20100101 Firefox/15.0.1
+1 12
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+1 12
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+1 57
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:27.0) Gecko/20100101 Firefox/27.0
+1 3
+ShowyouBot (http://showyou.com/crawler)
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; de-de; SAMSUNG SM-G900F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.6 C
+0 6
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; DTS Agent
+1 1
+python-requests/1.2.3 CPython/2.7.2+ Linux/3.0.0-16-virtual
+0 2
+Mozilla/5.0 (compatible; SeznamBot/3.2; +http://fulltext.sblog.cz/)
+0 2
+Java/1.7.0_51
+0 48
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+1 6
+LivelapBot/0.2 (http://site.livelap.com/crawler)
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 14
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 78
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; 125LA; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+1 85
+Mozilla/5.0 (compatible; Genieo/1.0 http://www.genieo.com/webfilter.html)
+0 3
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+0 2
+Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+1 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/
+1 2
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.64 Safari/537.31
+1 2
+Mozilla/5.0 (Linux; Android 4.4.3; HTC One Build/KTU84L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.117 Mobile S
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A365 Safar
+0 6
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.169 Safari/537.22
+1 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
+1 1
+Mozilla/5.0 (TweetmemeBot/4.0; +http://datasift.com/bot.html) Gecko/20100101 Firefox/31.0
+1 3
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+1 6
+Spider: Yahoo
+2 15
+Java/1.7.0_05
+0 9
+Mozilla/5.0 (Digg/1.0; support@digg.com)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_6) AppleWebKit/534.24 (KHTML, like Gecko) (Contact: backend@getprismatic.com)
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:28.0) Gecko/20100101 Firefox/28.0 (FlipboardProxy/1.1; +http://flipboard.com/
+1 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10
+1 5
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+1 15
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20120101 Firefox/29.0
+1 4
+Google-Test
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:33.0) Gecko/20100101 Firefox/33.0
+1 6
+Mozilla/5.0 (compatible; memoryBot/1.20.199 +http://internetmemory.org/en/)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.13 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.13 Lumin
+1 6
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+1 24
+Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/21.0 WordPress.com mShots
+1 12
+Java/1.6.0_20
+0 9
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+1 24
+Mozilla/5.0 (compatible; SEOdiver/1.0; +http://www.seodiver.com/bot)
+0 13
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 64
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+1 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B411 Safar
+0 6
+www.curl.useragent/0.9.6
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+1 1
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9301I Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.102 Mobile
+0 6
+crawler4j (http://code.google.com/p/crawler4j/)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+1 36
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+1 6
+Browser: Safari
+2 333
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36
+1 12
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+1 1
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-
+1 8
+Google-HTTP-Java-Client/1.17.0-rc (gzip)
+0 4
+Browser: Opera
+2 17
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12A405
+0 6
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+1 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; MS-RTC LM 8; .NET CLR 3
+1 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+1 12
+Opera/9.80 (Windows NT 5.1) Presto/2.12.388 Version/12.17
+1 6
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12
+1 1
+Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)
+1 3
+Java/1.6.0_29
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MALNJS)
+1 10
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+1 12
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en)
+1 3
+W3C_Validator/1.3 http://validator.w3.org/services
+0 1
+Java/1.4.1_04
+0 280
+Java/1.6.0_24
+0 15
+Java/1.6.0_31
+0 21
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+1 6
+# End Of Table - agents
+# -search strings- 
+ist schon wochenende
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
