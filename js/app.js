@@ -37,33 +37,30 @@ angular.module('weekendApp', [])
   $scope.$watch('timeSel', function() { //check if dropdown changes
     hoursDiff = $scope.timeSel.value - hrs - 1;
     minutesDiff = 60 - mnts;
-    console.log("It is " + todayDay + hrs + ":" + mnts + ":" + scnds + " and your weekend starts " + todayDay + "at " + $scope.timeSel.value + " p.m. That's " + hoursDiff + " hours and " + minutesDiff + " minutes to go.")
-    
-    if ($scope.dayInWeek == 5) { //is today Friday?
+
+    //is today Friday?
+    if ($scope.dayInWeek == 5) { 
       console.log("Today is Friday and you have to work for hrs/min");
-      if (hoursDiff <= 3 && hoursDiff != 0) {
-        console.log("Noch " + hoursDiff + " Stunden und " + minutesDiff + " Minuten")
+      if (hoursDiff <= 3 && hoursDiff > 0) {
         $scope.prompt = "Noch " + hoursDiff + " Stunden und " + minutesDiff + " Minuten bis zum wohlverdienten Wochenende."
-      } else if (hoursDiff = 0 && minutesDiff > 0) {
-        console.log ("Noch " + minutesDiff + " Minuten")
+      } else if (hoursDiff == 0 && minutesDiff > 0) {
         $scope.prompt = "Noch " + minutesDiff + " Minuten bis zum wohlverdienten Wochenende."
+      } else if (hoursDiff < 0) {
+        $scope.prompt = "Wochenende \\o/"
       } else {
-        console.log ("Noch mehr als " + hoursDiff + " Stunden")
         $scope.prompt = "Noch mehr als " + hoursDiff + " Stunden"
       }
-    } else { //no, it's not Friday
+      
+    //no, it's not Friday
+    } else { 
       if ($scope.dayInWeek == 4) { //at least it's Thursday. Not much longer now.
-        console.log("Tomorrow is Friday. Nearly there.")
-        $scope.prompt = "Tomorrow is Friday. Nearly there."
+        $scope.prompt = "Morgen ist Freitag. Fast geschafft."
       } else if ($scope.dayinWeek == 1) { //why are you looking at this page on a Monday???
-        console.log("Bro, today's Monday. If you hate Mondays so much, maybe you should change something in your life.")
         $scope.prompt = "Bro, today's Monday. If you hate Mondays so much, maybe you should change something in your life."
-      } else if ($scope.dayinWeek == 6 || dayinWeek == 7) { //it's saturday or sunday
-        console.log("It's weekend, dude. Relax. Get off the internet!")
+      } else if ($scope.dayinWeek == 6 || $scope.dayinWeek == 7) { //it's saturday or sunday
         $scope.prompt = "It's weekend, dude. Relax. Get off the internet!"
       } else { //Weekend is still far away
-        console.log("It is " + todayDay + hrs + ":" + mnts + ":" + scnds + " and your weekend starts " + todayDay + "at " + $scope.timeSel.value + " p.m. That's " + hoursDiff + " hours and " + minutesDiff + " minutes to go.")
-        $scope.prompt = "It is " + todayDay + hrs + ":" + mnts + ":" + scnds + " and your weekend starts " + todayDay + "at " + $scope.timeSel.value + " p.m. That's " + hoursDiff + " hours and " + minutesDiff + " minutes to go."
+        $scope.prompt = "Dauert leider noch ein bisschen bis zum Wochenende :(";
       }
     }
   });

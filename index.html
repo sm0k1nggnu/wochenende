@@ -57,12 +57,19 @@
         </div>
       </div>    
     </nav>
-    <div class="container">
-      <div class="jumbotron">
-        <h1>Ist schon Wochenende?</h1>
-        <p>Jeden Freitag dieselbe Frage: ist schon Wochenende? Diese Seite gibt euch die Antwort.</p>
+
+    <div class="row">
+      <div class="container">
+        <div class="jumbotron">
+          <h1 class="text-center">Ist schon Wochenende?</h1>
+          <p class="text-center">Jeden Freitag dieselbe Frage: ist schon Wochenende? Diese Seite gibt euch die Antwort.</p>
+          
+        </div>
       </div>
-      <p>
+    </div>
+
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1">
         <form class="form-inline" role="form">
           Sag uns, wann bei dir Wochenende ist!
           <div class="form-group" >
@@ -72,13 +79,20 @@
             <select ng-model="timeSel" ng-options="opt as opt.label for opt in optionsT" class="form-control"  ></select> Uhr
           </div>
         </form>
-      </p>
-      {{ prompt }}
-      <!--Noch {{daysUntil}} Tage und {{hoursUntil}} Stunden bis Wochenende.-->
-   </div>
+      </div>
+    </div>
 
-   <div id="footer">
-    Footer
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1">
+        <p ><h2 class="text-center bg-primary">{{ prompt }}</h2></p>
+      </div>
+    </div>
+
+  <div id="footer">
+     <div class="container">
+       <p class="text-muted">made with <span class="glyphicon glyphicon-heart"></span> by <a href="http://twitter.com/sm0k1nggnu">@sm0k1nggnu</a> / <a href="http://captain-obvious.de/impressum/">Impressum</a></p>
+       <p>stuff: <a href="http://istmorgenfeiertag.de">Ist morgen ein Feiertag?</a> | <a href="http://zwo.me">Zockwork Orange</a></p>
+     </div>
    </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
